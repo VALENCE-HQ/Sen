@@ -1,8 +1,7 @@
 <div align=center>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/3e9f77e9-afcb-4271-b395-f3f84253275b">
-  <img width="221" height="243" alt="SEN" src="https://github.com/user-attachments/assets/3e9f77e9-afcb-4271-b395-f3f84253275b" />
+  <img width="244" height="244" alt="SenIcon" src="https://github.com/user-attachments/assets/ef2ea5aa-ea13-4d23-a61e-4be7d979afeb" />
 </picture>
 
 ---
